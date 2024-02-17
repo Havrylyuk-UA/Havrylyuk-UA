@@ -1,5 +1,6 @@
 # 💫 About Me:
-Привіт! Мене звати Павло, і я Frontend Developer.<br>Зараз я активно розвиваю свої навички для створення унікальних веб-додатків. <br>
+Hello! My name is Pavel and I am a Frontend Developer.
+Now I am actively developing my skills to create unique web applications.
 
 
 
