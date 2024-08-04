@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello!  I am a Frontend Developer.<br> Now I am actively developing my skills to create unique web applications.
+Hello!  I am a FullStack Developer.<br> Now I am actively developing my skills to create unique web applications.
 
 
 ## 🌐 Socials:
